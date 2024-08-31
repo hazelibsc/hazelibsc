@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hazelibsc
-- 👀 I’m interested in data analytics
+- Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong background in Data Analytics and Information Systems. 
 - 📫 How to reach me - via email hmibsc0329@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I just finished my post-baccaleaurate diploma in computer and information systems - Data Analytics! 
